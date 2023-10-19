@@ -1,7 +1,7 @@
 # Ai-girlfriend
 ###  This project is an ai virtual girlfriend  which used openAi ,  langchain + GPT ? elevenlabs to accomplish it.
 ### It prompt GPT to behave like a girlfriend
-### The project is built with python  flask to send the promp to langchan GPT and generate desired conversation as text and we used elevenlabs api to conver the text to speech  to generate  ongoing conversation as a chart
+### The project is built with python  flask to send the promp to langchan GPT and generate desired conversation as text and we used elevenlabs api to convert the text to speech  to generate  ongoing conversation as a chart
 ###  wich also particular voice  from  elevenlab.
 ###  To test it:
 ### clone the app
